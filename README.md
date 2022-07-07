@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @j0t4ku
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 👋 Hi, I’m Joel Ismar
+
+
+- 🌱 I’m currently learning different Frameworks to further enrich my knowledge such as: Django, Laravel and Vue.js.
+- 💞️ I’m looking to collaborate on in different fields of web and mobile development.
 
 <!---
 j0t4ku/j0t4ku is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
